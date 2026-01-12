@@ -2,6 +2,7 @@
 
 Summary: Today we will help you with data visualization in Matplotlib, Seaborn, and Plotly.
 
+
 ## Contents
 
 1. [Chapter I](#chapter-i) \
